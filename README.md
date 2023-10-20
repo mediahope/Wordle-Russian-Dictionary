@@ -1,4 +1,4 @@
-# Wordle-Russian-Dictionary
+# Wordle - Russian Dictionary
 Five-letter words in Russian (Wordle Dictionary)
 <br/>
 <p align="center">
