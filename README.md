@@ -1,5 +1,5 @@
 # Wordle - Russian Dictionary
-Five-letter words in Russian (Wordle Dictionary)
+Five-letter words in Russian (Wordle Dictionary)<br/>
 Слова из пяти букв на Русском языке (Словарь Wordle)
 
 ## About The Project
